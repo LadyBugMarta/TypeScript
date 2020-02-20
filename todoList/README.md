@@ -29,3 +29,6 @@ Run `ng github-pages:deploy` to deploy to GitHub Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# Todo List
+A simple app in which you can easily add a task to do by using a submit button or enter and then remove the task when completed by clicking at [x].  This app also contains a checkbox that makes the line-through.
